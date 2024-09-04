@@ -1,8 +1,12 @@
 #Demo Project README
 
 # Heading
-<<<<<<< HEAD
 I hope this doesnt bother
+
+modified
+
+<<<<<<< HEAD
+I do change this file for understanding fetch and pull
 =======
-This is bound to cause trouble
->>>>>>> very_bad_branch
+checking pull request
+>>>>>>> refs/remotes/origin/main
